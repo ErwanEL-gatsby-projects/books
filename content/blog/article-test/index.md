@@ -3,6 +3,34 @@ title: Hey josé
 date: "2015-05-01T22:12:03.284Z"
 ---
 
-cet un article test
+17 Switch teams and playbooks
 
-> voir la fonctionnalité
+> _italicized text_ “A man wrapped up in himself makes a very small bundle” -Benjamin Franklin.
+
+The fastlane roadmap: The playbook for wealth
+
+Yes, become a producer first and a consumer second. Applied, this means instead of buying products on TV, sell products. Instead of digging for gold, sell shovels. Instead of taking a class, offer a class. Instead of borrowing money, lend it. Instead of taking a job, hire for jobs. Instead of taking a mortgage, hold a mortgage. Break free from consumption, switch sides, and reorient to the world as producer.
+
+Acquire the producer mindset.
+
+To consume richly, produce effectively.
+
+Be a producer: Leverage the business of a system.
+
+Summary
+
+Producers are indigenous to the Fastlane roadmap. Producers are the minority as are the rich, while consumers are the majority as are the poor. When you succeed as a producer, you can consume anything you want. Fastlaners are producers, entrepreneurs, innovators, visionaries, and creators. A business does not make a Fastlane-some businesses are jobs in disguise. The Fastlane wealth equation is not bound by time and its variables are unlimited and controllable.
+
+How the rich really get rich
+
+“Only those who will risk going too far can possibly find out how far one can go” -TS Eliot
+
+Wealth = net profit + asset value
+
+Net profit = (unit sold) x (unit profit)
+
+Asset value = (net profit) x (industry multiplier)
+
+Raise units sold by increasing conversion ratio.
+Raise units sold by increasing web traffic.
+Raise unit profit.
