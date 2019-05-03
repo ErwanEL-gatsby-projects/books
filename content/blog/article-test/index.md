@@ -3,13 +3,13 @@ title: Hey josé
 date: "2019-05-01T22:12:03.284Z"
 ---
 
-**17 Switch teams and playbooks**
+# **17 Switch teams and playbooks**
 
 > “_A man wrapped up in himself makes a very small bundle_” -Benjamin Franklin.
 
 **The fastlane roadmap: The playbook for wealth**
 
----Yes, become a producer first and a consumer second. Applied, this means instead of buying products on TV, sell products. Instead of digging for gold, sell shovels. Instead of taking a class, offer a class. Instead of borrowing money, lend it. Instead of taking a job, hire for jobs. Instead of taking a mortgage, hold a mortgage. Break free from consumption, switch sides, and reorient to the world as producer.
+&nbsp;Yes, become a producer first and a consumer second. Applied, this means instead of buying products on TV, sell products. Instead of digging for gold, sell shovels. Instead of taking a class, offer a class. Instead of borrowing money, lend it. Instead of taking a job, hire for jobs. Instead of taking a mortgage, hold a mortgage. Break free from consumption, switch sides, and reorient to the world as producer.
 
 Acquire the producer mindset.
 
