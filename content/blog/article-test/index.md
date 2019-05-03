@@ -36,3 +36,5 @@ Be a producer: Leverage the business of a system.
 3. Raise unit profit.
 
 ---
+
+![book](./818B2wyHQ8L.jpg)
