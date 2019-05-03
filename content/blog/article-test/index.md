@@ -25,14 +25,16 @@ Be a producer: Leverage the business of a system.
 
 > “_Only those who will risk going too far can possibly find out how far one can go_” >-TS Eliot
 
-Wealth = net profit + asset value
+`Wealth = net profit + asset value
 
 Net profit = (unit sold) x (unit profit)
 
-Asset value = (net profit) x (industry multiplier)
+Asset value = (net profit) x (industry multiplier)`
 
 1. Raise units sold by increasing conversion ratio.
 2. Raise units sold by increasing web traffic.
 3. Raise unit profit.
+
+---
 
 `code`
