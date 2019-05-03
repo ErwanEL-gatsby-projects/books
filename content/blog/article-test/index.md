@@ -37,4 +37,4 @@ Be a producer: Leverage the business of a system.
 
 ---
 
-![book](./818B2wyHQ8L.jpg)
+![book](./818B2wyHQ8L.jpg =100x20)
