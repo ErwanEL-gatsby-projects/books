@@ -5,7 +5,7 @@ date: "2015-05-01T22:12:03.284Z"
 
 17 Switch teams and playbooks
 
-> _italicized text_ “A man wrapped up in himself makes a very small bundle” -Benjamin Franklin.
+> “_A man wrapped up in himself makes a very small bundle_” -Benjamin Franklin.
 
 The fastlane roadmap: The playbook for wealth
 
